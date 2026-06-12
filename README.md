@@ -1,17 +1,34 @@
-# explore_app
+# Flutter To-Do List App
 
-Explore Vacations practice app
+This is a simple Flutter mobile application developed for a practical assessment. The app allows users to add, view, complete, edit, search, filter, and delete tasks.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Add new tasks
+* Prevent empty task submission
+* Mark tasks as completed
+* Show completed tasks with strikethrough
+* Edit and delete tasks
+* Search and filter tasks
+* View total, pending, and completed task count
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+
+\todo_app_screenshot.png
+
+## How to Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Developer
+
+Randeepa Ariyawansa
