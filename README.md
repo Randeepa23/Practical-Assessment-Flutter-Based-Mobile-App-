@@ -31,4 +31,4 @@ flutter run
 
 ## Developer
 
-Randeepa Ariyawansa
+SE Intern - Randeepa Ariyawansa
